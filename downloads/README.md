@@ -2,6 +2,7 @@
 
 - [516](./516)
 - [ComfyUI_windows_portable_nvidia](./ComfyUI_windows_portable_nvidia)
+- [x64](./x64)
 
 ---
 
